@@ -155,8 +155,13 @@
 			}
 		},
 		"variables": {
-			"test": {
-				"type": "String"
+			"source_system": {
+				"type": "String",
+				"defaultValue": "neon_postgres"
+			},
+			"adf_run_id": {
+				"type": "String",
+				"defaultValue": "a3"
 			}
 		},
 		"annotations": []
