@@ -152,6 +152,10 @@
 			"source_system": {
 				"type": "string",
 				"defaultValue": "neon_postgres"
+			},
+			"adf_run_Id": {
+				"type": "string",
+				"defaultValue": "a3"
 			}
 		},
 		"variables": {
